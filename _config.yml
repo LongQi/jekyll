@@ -1,5 +1,5 @@
 # standard jekyll configuration options
-
+baseurl: /jekyll
 exclude: ['Rakefile', 'README.md', 'config.rb']
 
 # configuration required for some pages
